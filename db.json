@@ -1,0 +1,53 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Kembalinya Sang Putra Pewaris",
+      "description": ">Tommy Lutfi merancang sebuah paten dan memberikannya kepada tunangannya. Dia ingin tunangannya mendapatkan penghargaan dari Grup Tirtajaya.",
+      "cover_url": "https://sres.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000108364/41000108364.jpg?w=400&h=600&fit=crop",
+      "stream_url": "https://hwztvideo.dramaboxdb.com/11/4x6/46x3/463x8/46380100014/583357111_3/583357111.720p.narrowv3.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Pear Dreams",
+      "description": "An adventure through orchards and dreams where reality meets fantasy. A visual masterpiece that explores the beauty of nature.",
+      "cover_url": "https://images.unsplash.com/photo-1574856344991-aaa31b6f4ce3?w=400&h=600&fit=crop",
+      "stream_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "id": 3,
+      "title": "The Harvest",
+      "description": "A documentary-style film about the annual pear harvest and the families who dedicate their lives to this ancient tradition.",
+      "cover_url": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?w=400&h=600&fit=crop",
+      "stream_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Sweet Symphony",
+      "description": "A musical journey through seasons, featuring the lifecycle of pear trees and the symphony of nature's sounds.",
+      "cover_url": "https://images.unsplash.com/photo-1576179635662-9d1983e97e1e?w=400&h=600&fit=crop",
+      "stream_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+    },
+    {
+      "id": 5,
+      "title": "Orchard Mysteries",
+      "description": "A thriller set in an abandoned orchard where secrets from the past come to light. Mystery and suspense await.",
+      "cover_url": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=600&fit=crop",
+      "stream_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+    },
+    {
+      "id": 6,
+      "title": "The Last Pear",
+      "description": "A post-apocalyptic tale where the last remaining pear tree holds the key to humanity's survival.",
+      "cover_url": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?w=400&h=600&fit=crop",
+      "stream_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+    },
+        {
+      "id": 7,
+      "title": "The Golden Cat",
+      "description": "A heartwarming story about a magical pear that brings people together. Follow the journey of discovery and friendship in this enchanting tale.",
+      "cover_url": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=400&h=600&fit=crop",
+      "stream_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ]
+}
